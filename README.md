@@ -25,3 +25,5 @@ https://github.com/BWSI-UAV/laboratory
 ##ROS Humble for ubuntu 22.04
 
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html#install-ros-2-packages
+
+https://bwsi-uav.github.io/module-0/installation-ide/
