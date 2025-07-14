@@ -21,3 +21,7 @@ https://github.com/BWSI-UAV/laboratory_2024/tree/main/computer_vision
 ##another lab
 
 https://github.com/BWSI-UAV/laboratory
+
+##ROS Humble for ubuntu 22.04
+
+https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html#install-ros-2-packages
