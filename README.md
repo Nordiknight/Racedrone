@@ -1,6 +1,10 @@
 # Racedrone
 ## Mit courses
 https://courses.bwsix.edly.io/dashboard
+# Rasp pi 4 model b, MicroSd 2
+User: orangeworksdrone (All Lowercase))
+Pass: SU0530 (su is caps)
+
 
 ##
 https://newbeedrone.com/products/holybro-x500-v2-px4-full-development-kit-pixhawk-6x?utm_source=chatgpt.com
