@@ -35,3 +35,6 @@ https://bwsi-uav.github.io/module-0/installation-ide/
 ##hardware
 
 https://medium.com/@kazuyahirotsu/how-to-start-developing-drone-with-px4-and-raspberry-pi-7b3db3575e1c
+
+# QR codes
+https://github.com/duckietown/lib-dt-apriltags
