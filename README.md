@@ -17,6 +17,7 @@ https://docs.px4.io/main/en/config/actuators.html
 ##tutorial
 
 https://bwsi-uav.github.io/website/index.html
+https://github.com/BWSI-UAV/aero_control
 
 ##lab2024
 
